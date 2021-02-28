@@ -1,0 +1,33 @@
+genre{
+	font: bold 4.0rem Playfair Display,  sans-serif;
+	font-weight: 600;
+	color: #e76f51;
+	line-height: 1.6em;
+	display: block; padding: 20px;
+	text-align: center;
+}
+
+song{
+	font: 1.6rem Poppins, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	color: #212529;
+	line-height: 1.4em;
+	display: block;
+	font-weight: 600;
+	
+	
+}
+
+songTitle{
+	font: italic 1.6rem Poppins, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	color: #212529;
+	padding: 0px 20px;
+
+	
+	
+}
+
+year{
+	font: italic 1.6rem Poppins, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	color: #6c757d;
+
+}
