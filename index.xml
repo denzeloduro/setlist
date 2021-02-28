@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/css" href = "setliststyle.css" ?>
+
+<setlist>
+	<genre>
+		RnB
+		<song> 
+			<singerName>
+				Beyonce
+			</singerName>
+			<songTitle>
+				Halo
+			</songTitle>
+			<year>
+				2009
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				Ashanti
+			</singerName>
+			<songTitle>
+				Foolish
+			</songTitle>
+			<year>
+				2002
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				Rihanna
+			</singerName>
+			<songTitle>
+				Take a Bow
+			</songTitle>
+			<year>
+				2008
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				John Legend
+			</singerName>
+			<songTitle>
+				All of Me
+			</songTitle>
+			<year>
+				2013
+			</year>
+		</song>
+
+	</genre>
+
+	<genre>
+		Electropop
+		<song> 
+			<singerName>
+				Dua Lipa
+			</singerName>
+			<songTitle>
+				New Rules
+			</songTitle>
+			<year>
+				2017
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				Billie Eilish
+			</singerName>
+			<songTitle>
+				Bad Guy
+			</songTitle>
+			<year>
+				2019
+			</year>
+		</song>
+
+	</genre>
+
+	<genre>
+		Soul
+		<song> 
+			<singerName>
+				Pharrel Williams
+			</singerName>
+			<songTitle>
+				Happy
+			</songTitle>
+			<year>
+				2013
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				The Temptations
+			</singerName>
+			<songTitle>
+				My Girl
+			</songTitle>
+			<year>
+				1964
+			</year>
+		</song>
+
+	</genre>
+
+	<genre>
+		Pop
+		<song> 
+			<singerName>
+				Lizzo
+			</singerName>
+			<songTitle>
+				Juice
+			</songTitle>
+			<year>
+				2019
+			</year>
+		</song>
+
+		<song> 
+			<singerName>
+				Adele
+			</singerName>
+			<songTitle>
+				Someone Like You
+			</songTitle>
+			<year>
+				2011
+			</year>
+		</song>
+
+	</genre>
+
+
+
+	</setlist>
